@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T14:09:58.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="Yeyp63l3w3bZeAI3846N" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T14:12:40.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="CsvgVwOf4FJ84I30Gy49" version="20.8.5" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="3996" dy="2850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -57,11 +57,17 @@
         <mxCell id="abTZT2YKblpQgq0CwKkB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=7;fontSize=50;fontColor=#0042aa;startArrow=classic;startFill=1;" edge="1" parent="1" source="abTZT2YKblpQgq0CwKkB-1" target="abTZT2YKblpQgq0CwKkB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="abTZT2YKblpQgq0CwKkB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;fontSize=40;fontColor=#0042aa;startArrow=classic;startFill=1;" edge="1" parent="1" source="abTZT2YKblpQgq0CwKkB-1" target="abTZT2YKblpQgq0CwKkB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="abTZT2YKblpQgq0CwKkB-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;&lt;br&gt;&lt;font color=&quot;#0042aa&quot;&gt;SERVICIOS&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="770" y="-30" width="630" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="abTZT2YKblpQgq0CwKkB-5" value="App Movil" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;fontSize=50;" vertex="1" parent="1">
+        <mxCell id="abTZT2YKblpQgq0CwKkB-5" value="App Movil&lt;br&gt;Cliente" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="-450" y="270" width="220" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="abTZT2YKblpQgq0CwKkB-10" value="App Movil&lt;br&gt;Taxi" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;fontSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="50" width="220" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
