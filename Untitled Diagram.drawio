@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T04:01:01.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="KEj6ndF1pTsrend8FeQH" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T14:09:58.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="Yeyp63l3w3bZeAI3846N" version="20.8.5" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="3996" dy="2850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="7c3789c024ecab99-58" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Servidor BD&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;rounded=0;shadow=0;comic=0;" parent="1" vertex="1">
           <mxGeometry x="1160" y="695" width="270" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="RNAvwY5ogVoFwGdkrAzX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=40;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=12;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="7c3789c024ecab99-82" target="7c3789c024ecab99-61" edge="1">
+        <mxCell id="RNAvwY5ogVoFwGdkrAzX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=40;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="7c3789c024ecab99-82" target="7c3789c024ecab99-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="670" as="sourcePoint" />
             <mxPoint x="530" y="875" as="targetPoint" />
